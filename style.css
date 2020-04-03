@@ -1,0 +1,36 @@
+body{
+	padding: 0;
+	margin: 0;
+	background: #f2f6e9;
+}
+
+.navbar {
+	background: #6ab446 !important;
+}
+
+.nav-link, .navbar-brand{
+	color: #fff !important;
+	cursor: pointer;
+}
+
+.nav-link {
+	margin-right: 1em !important;
+}
+
+.nav-link:hover{
+	color: #000 !important;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+
+.navbar-nav{
+	position: absolute;
+	left: 10;
+}
+
+.show{
+	height: 220px;
+}
+
